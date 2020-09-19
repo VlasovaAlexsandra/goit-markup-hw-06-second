@@ -430,6 +430,7 @@ img {
 
 .projects-title {
     color: var(--title-text-color);
+    margin-top: 0;
     
     font-weight: bold;
     font-size: 18px;
@@ -511,7 +512,7 @@ img {
 }
 
 .projects {
-    margin: 20px 24px;
+    margin: 12px 24px;
 }
 
 .flex-elemets {
@@ -548,6 +549,7 @@ img {
 
 .projects-text {
     color: var(--primary-text-color);
+    margin-top: 0;
 
     font-family: Roboto;    
     font-size: 16px;

@@ -376,6 +376,7 @@ img {
 
 .staff-title {
     color: var(--title-text-color);
+    margin-bottom: 13px;
 
     text-align: center;
 
@@ -447,6 +448,7 @@ img {
 .staff-text {
     color: var(--primary-text-color);
     text-align: center;
+    margin-top: 0;
 
     font-size: 16px;
     line-height: 1.19;

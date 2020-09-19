@@ -940,7 +940,12 @@ textarea {
 
 .form-modal-icon {    
     position: absolute;
-    /* display: inline-block; */
+    top: 50%;
+    /* left: 10px; */
+    width: 18px;
+    height: 18px;
+    transform: translateY(-50%);
+    display: inline-block;
     margin: 11px 12px;
     padding: 0;
 }

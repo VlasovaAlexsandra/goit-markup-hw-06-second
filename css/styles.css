@@ -847,6 +847,7 @@ img {
 
 .form-modal .modal-title {  
     margin-top: 0;
+    margin-bottom: 12px;
     font-size: 20px;
     line-height: 23px;
     text-align: center;
